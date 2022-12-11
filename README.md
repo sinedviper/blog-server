@@ -11,7 +11,6 @@
 - react-dom
 - express
 - express-validator
-- axios
 - mongoose
 - multer
 - nodemon
