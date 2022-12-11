@@ -8,7 +8,6 @@
 ### :book: Libraries
 
 - bcrypt
-- react-dom
 - express
 - express-validator
 - mongoose
